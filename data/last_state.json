@@ -1,10 +1,10 @@
 {
   "Plug A": {
-    "updated": "2026-07-07T22:17:05+0000",
-    "status": "AVAILABLE"
+    "updated": "2026-07-08T04:50:40+0000",
+    "status": "OCCUPIED"
   },
   "Plug B": {
-    "updated": "2026-07-08T03:06:40+0000",
+    "updated": "2026-07-08T06:32:39+0000",
     "status": "OCCUPIED"
   }
 }
